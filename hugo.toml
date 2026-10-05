@@ -1,4 +1,4 @@
-baseURL = 'https://shidanz.github.io'
-locale = 'en-us'
-title = 'Joxlyn's Blog'
-theme = 'ananke'
+baseURL = "https://shidanz.github.io"
+locale = "en-us"
+title = "Joxlyn's Blog"
+theme = "PaperMod"
